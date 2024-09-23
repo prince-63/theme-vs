@@ -2,15 +2,15 @@
 
 ##### Overview
 
-Welcome to theme darkula! This theme is designed to provide a visually appealing and comfortable coding experience. Whether you prefer a dark theme, this extension has you covered.
+Welcome to theme vs! This theme is designed to provide a visually appealing and comfortable coding experience. Whether you prefer a dark theme, this extension has you covered.
 
 ##### Installation
 
 1. Open Visual Studio Code.
 2. Go to the Extensions view by clicking on the Extensions icon in the Activity Bar on the side of the window or by pressing `Ctrl+Shift+X`.
-3. Search for "Theme VS".
+3. Search for "theme-vs".
 4. Click the "Install" button.
-5. Once installed, go to the Command Palette (`Ctrl+Shift+P`) and type `Color Theme`, then select "Theme VS" from the list.
+5. Once installed, go to the Command Palette (`Ctrl+Shift+P`) and type `Color Theme`, then select "theme-vs from the list.
 
 ##### Features
 
@@ -24,7 +24,7 @@ To activate the theme:
 
 1. Open the Command Palette (`Ctrl+Shift+P`).
 2. Type `Color Theme` and press `Enter`.
-3. Select "Theme Darkula" from the list.
+3. Select "theme-vs" from the list.
 
 ## Contributing
 
