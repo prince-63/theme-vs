@@ -17,7 +17,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "theme-darkula",
+        "label": "theme-vs",
         "uiTheme": "vs-dark",
         "path": "./themes/theme-vs-color-theme.json"
       }
