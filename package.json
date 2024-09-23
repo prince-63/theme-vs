@@ -1,0 +1,31 @@
+{
+  "name": "theme-vs",
+  "displayName": "theme-vs",
+  "description": "Theme for Visual Studio Code",
+  "version": "0.0.1",
+  "publisher": "prince-63",
+  "engines": {
+    "vscode": "^1.93.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/prince-63/theme-vs"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "theme-darkula",
+        "uiTheme": "vs-dark",
+        "path": "./themes/theme-vs-color-theme.json"
+      }
+    ]
+  },
+  "author": {
+    "name": "Prince Kumar Prasad",
+    "email": "prince08833@gmail.com",
+    "url": "https://github.com/prince-63"
+  }
+}
