@@ -1,5 +1,3 @@
-#### Theme Darkula
-
 ##### Overview
 
 Welcome to theme vs! This theme is designed to provide a visually appealing and comfortable coding experience. Whether you prefer a dark theme, this extension has you covered.
